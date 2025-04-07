@@ -1,0 +1,4 @@
+@charset "utf-8";
+/* CSS Document */
+p:nth-child(odd){color:#08298A}
+p:nth-child(even){color:#642EFE}

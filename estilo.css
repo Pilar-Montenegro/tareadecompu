@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/*GENERAL*/
+body{
+background-color:#D7DF01;
+font-family: Trebuchet MS;
+font-size: 14px;
+}
+input{
+font-family: Trebuchet MS;
+font-size: 16px;
+}
+/*LOGIN*/
+#login{
+margin: 50px auto;
+width: 400px;
+text-align: center;
+}
+#login h2{
+background-color:#7401DF;
+color:#000000;
+font-size: 20px;
+text-align: center;
+padding: 20px;
+}
+#login fieldset{
+background-color: #fff;
+padding: 20px;
+text-align: center;
+}
+#login fieldset input[type="email"], #login fieldset input[type="password"]{
+border: none;
+background-color:#FE2E64;
+color:#000000;
+padding: 4px;
+width: 328px;
+text-align: center;
+}
